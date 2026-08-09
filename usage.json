@@ -1,0 +1,12 @@
+{
+  "total_prompts": 0,
+  "total_responses": 0,
+  "total_requests": 1,
+  "successful_requests": 0,
+  "average_latency": 0.0,
+  "provider_usage": {
+    "groq": 1
+  },
+  "errors": 1,
+  "last_error": "Groq API key is missing. Add it to .env and try again."
+}

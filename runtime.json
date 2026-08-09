@@ -1,0 +1,11 @@
+{
+  "application": "Helios",
+  "version": "0.6.0",
+  "provider": "groq",
+  "model": "llama-3.3-70b-versatile",
+  "temperature": 0.2,
+  "max_tokens": 1024,
+  "history_limit": 50,
+  "memory_enabled": true,
+  "logging_enabled": true
+}
